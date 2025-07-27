@@ -28,7 +28,7 @@ This project enables you to control multiple home appliances (like lights, fans,
 
 > Access your relays using toggles in the Arduino IoT Cloud Dashboard.
 
-![Dashboard Example](https://user-images.githubusercontent.com/your-image-url) <!-- Optional: Replace with your screenshot -->
+![Dashboard Example](https://ibb.co/wZXVSvDp) <!-- Optional: Replace with your screenshot -->
 
 ---
 
